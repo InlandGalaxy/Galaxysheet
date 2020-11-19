@@ -6,7 +6,7 @@ except ImportError:
 
 root = Tk()
 root.resizable(0, 0) 
-root.title("Leggings Table Editor")
+root.title("Galaxysheet")
 
 height = 5
 width = 5
