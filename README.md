@@ -1,2 +1,2 @@
-# LeggingsTableEditor
-Simple Table Program without the function to save yet.
+# Galaxysheet
+Simple spreadsheet program without the function to save yet.
